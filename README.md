@@ -1,5 +1,5 @@
 # My-QT-Calculator
-This is a simple calculator written using C++ and QT.
+This is a simple calculator written in C++ using QT.
 
 ## Preview
 
